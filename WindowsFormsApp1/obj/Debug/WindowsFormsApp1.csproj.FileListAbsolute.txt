@@ -1,0 +1,20 @@
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CICLO 4\MATE COMPUTACIONAL\NT - Fimagen\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
